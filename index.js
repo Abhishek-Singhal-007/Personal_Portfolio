@@ -9,7 +9,7 @@ const projectData = [
         id: 'hr-analytics',
         title: 'HR Analytics Dashboard – Power BI',
         date: 'May 2025 - Jun 2025',
-        imageUrl: 'https://via.placeholder.com/300x180/6F42C1/FFFFFF?text=HR+Analytics',
+        imageUrl: 'public/images/Sales_Home_Page.png',
         imageAlt: 'HR Analytics Dashboard – Power BI',
         shortDescription: 'An interactive Power BI dashboard revealing key HR insights like employee attrition, salary impacts, and departmental trends to support strategic decision-making.',
         fullDescriptionHTML: `
@@ -32,7 +32,7 @@ const projectData = [
         id: 'madhav-ecommerce',
         title: 'Madhav E-Commerce Sales Dashboard',
         date: 'Jun 2025 - Jun 2025',
-        imageUrl: 'https://via.placeholder.com/300x180/28A745/FFFFFF?text=E-Commerce+Sales',
+        imageUrl: 'public/images/Sales_Home_Page.png',
         imageAlt: 'Madhav E-Commerce Sales Dashboard',
         shortDescription: 'A dynamic Power BI dashboard analyzing e-commerce sales, product profitability, and payment behaviors to drive business growth and optimize strategies.',
         fullDescriptionHTML: `
